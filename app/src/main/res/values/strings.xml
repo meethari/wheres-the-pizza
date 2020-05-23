@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Where\'s The Pizza</string>
+    <string name="title_foodevent_list">FoodEvents</string>
+    <string name="title_foodevent_detail">FoodEvent Detail</string>
+</resources>
